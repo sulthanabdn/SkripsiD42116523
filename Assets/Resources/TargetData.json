@@ -1,0 +1,300 @@
+{
+	"TargetList": [
+		{
+			"Name": "Gedung A",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -19.81,
+				"y": 0.00,
+				"z": -8.55
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+			{
+			"Name": "Gedung B",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -31.82,
+				"y": 0.00,
+				"z": -9.35
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		
+		{
+			"Name": "Gedung C",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -94.69,
+				"y": 0.00,
+				"z": -10.65
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung D",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -43.34,
+				"y": 0.00,
+				"z": 4.01
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": -90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung E",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -35.06,
+				"y": 0.00,
+				"z": 37.67
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung F",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -73.59,
+				"y": 0.00,
+				"z": 38.59
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung G",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -65.99,
+				"y": 0.00,
+				"z": -62.57
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung H",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -64.29,
+				"y": 0.00,
+				"z": 69.66
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung I",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -48.18,
+				"y": 0.00,
+				"z": 63.23
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung J",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -19.93,
+				"y": 0.00,
+				"z": 60.34
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung K",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 22.48,
+				"y": 0.00,
+				"z": 61.93
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung L",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 42.77,
+				"y": 0.00,
+				"z": 68.87
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung M",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 31.71,
+				"y": 0.00,
+				"z": 40.46
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung N",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 41.59,
+				"y": 0.00,
+				"z": -6.22
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung O",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -4.89,
+				"y": 0.00,
+				"z": -6.75
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gedung P",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.63,
+				"y": 0.00,
+				"z": 24.67
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "MainEntrance",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -8.38,
+				"y": 0.00,
+				"z": -2.23
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "StartPoint",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.00,
+				"y": 0.00,
+				"z": 0.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+
+		{
+			"Name": "LivingRoom",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.00,
+				"y": 0.00,
+				"z": 0.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ExtraRoom",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -5.68,
+				"y": 0.00,
+				"z": -5.67
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "SecondMainEntrance",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -8.15,
+				"y": 0.00,
+				"z": -0.48
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}

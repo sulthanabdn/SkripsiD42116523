@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5600906130798935739
+  m_GuidHigh: 15963394393400254908
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5214399844719056385
+      m_GuidHigh: 15688953285531495065
+    m_SerializedTextureGuid:
+      m_GuidLow: 12188069646064352571
+      m_GuidHigh: 11710890568687733320
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung A
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4838745043876349055
+      m_GuidHigh: 2150988648192033961
+    m_SerializedTextureGuid:
+      m_GuidLow: 9251700210459198578
+      m_GuidHigh: 8633162471628471595
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung B
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5688648738379800332
+      m_GuidHigh: 14080567194844740540
+    m_SerializedTextureGuid:
+      m_GuidLow: 10138991369538765500
+      m_GuidHigh: 11955109968335382971
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung C
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5206739964565093593
+      m_GuidHigh: 367496330420782015
+    m_SerializedTextureGuid:
+      m_GuidLow: 12570829915598029966
+      m_GuidHigh: 6735414691288176520
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung D
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5401519540163963664
+      m_GuidHigh: 14097310972818189977
+    m_SerializedTextureGuid:
+      m_GuidLow: 17020380746962853616
+      m_GuidHigh: 6822318965344021512
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung E
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5597856820516306890
+      m_GuidHigh: 15070084288824471965
+    m_SerializedTextureGuid:
+      m_GuidLow: 14007461394200970585
+      m_GuidHigh: 18211568966087776937
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung F
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4892056936375403656
+      m_GuidHigh: 777228658963760774
+    m_SerializedTextureGuid:
+      m_GuidLow: 17961584905582853514
+      m_GuidHigh: 15335404005490994169
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung G
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4908311927746132731
+      m_GuidHigh: 14259173961751493559
+    m_SerializedTextureGuid:
+      m_GuidLow: 10845845153796032903
+      m_GuidHigh: 2227876111363518506
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung H
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4778102587781338287
+      m_GuidHigh: 11888921088991217551
+    m_SerializedTextureGuid:
+      m_GuidLow: 5477685685284515360
+      m_GuidHigh: 14759023025062796104
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung I
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5211023768179800712
+      m_GuidHigh: 6581666293304228031
+    m_SerializedTextureGuid:
+      m_GuidLow: 1595405156477316111
+      m_GuidHigh: 4453046416233666779
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung J
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5516832917610015221
+      m_GuidHigh: 3479823836055032502
+    m_SerializedTextureGuid:
+      m_GuidLow: 14142439081818840544
+      m_GuidHigh: 11710275349840580728
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung K
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4861223423803679734
+      m_GuidHigh: 13544124869068141443
+    m_SerializedTextureGuid:
+      m_GuidLow: 14385691513182370138
+      m_GuidHigh: 17092670519843875898
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung L
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5383282148296919041
+      m_GuidHigh: 18219284425899470994
+    m_SerializedTextureGuid:
+      m_GuidLow: 8931994123624561057
+      m_GuidHigh: 2037582247923504842
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung M
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5468901686363416087
+      m_GuidHigh: 10347521316713216154
+    m_SerializedTextureGuid:
+      m_GuidLow: 10404452033876701970
+      m_GuidHigh: 3038441842646115290
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung N
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5661234710044843593
+      m_GuidHigh: 6710520295124250501
+    m_SerializedTextureGuid:
+      m_GuidLow: 1712497993734178235
+      m_GuidHigh: 4281146407373721915
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung O
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5495375391834481332
+      m_GuidHigh: 10381509028108201651
+    m_SerializedTextureGuid:
+      m_GuidLow: 17317639733179236432
+      m_GuidHigh: 18140680551781889243
+    m_Size: {x: 2.5, y: 4.4444447}
+    m_SpecifySize: 1
+    m_Name: Gedung P
+    m_Texture: {fileID: 0}
